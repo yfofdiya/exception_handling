@@ -1,0 +1,1 @@
+Both folders are having code where we have handled exception with custom handling and global handling.
